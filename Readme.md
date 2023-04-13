@@ -19,7 +19,7 @@
 My decision to pursue a master's degree was driven by my desire to further develop my skills in ML and Data Science, as well as to learn more about how businesses utilize these technologies. I believe that there is still much that can be achieved through the use of machine learning, and I am excited about the potential for contributions in this field.
 
   
-- 🌱 I’m currently learning about **Stable Diffusion** and **Advanced Data Analysis Techniques**.
+- 🌱 I’m currently learning about **MultiCloud** and **Advanced Data Analysis Techniques**.
  
 - 👨‍💻 You can find more details about some of my projects at my [ePortfolio](https://sarthakforwet.github.io/)
 
