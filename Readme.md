@@ -10,7 +10,7 @@
 
 
 <h4 align="justify">
-  Data Science | Innovative | Leader | Badminton
+  Data Scientist | Innovative | Badminton
   <br><br>
 
   I'm a Data science Graduate at Northeastern University, Boston. As a professional with a strong background in Machine Learning (ML) and Data Science, I have been actively working in this field since my sophomore year at my undergraduate university. Throughout my studies, I have had the opportunity to build a number of projects and complete three internships in the ML and Data Science domain.
