@@ -17,15 +17,14 @@
 
 <br>
 My decision to pursue a master's degree was driven by my desire to further develop my skills in ML and Data Science, as well as to learn more about how businesses utilize these technologies. I believe that there is still much that can be achieved through the use of machine learning, and I am excited about the potential for contributions in this field.
-
-  
+   
 - 🌱 I’m currently doing research on enabling data analysis for BLV (Blind and Low Vision) individuals.
  
 - 👨‍💻 You can find more details about some of my projects at my [ePortfolio](https://sarthakforwet.github.io/)
 
 - 📫 You can reach me at **khandelwal.sar@northeastern.edu**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/118OLWcpAcy2GZRsJcfCCvhN0h_K0n4jj/view?usp=share_link)
+- Product Quantization is indeed the future of handling big data.
   
 <br><br>  
 ![Sarthak Khandelwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarthakforwet&hide=[%22stars%22]&show_icons=true)
