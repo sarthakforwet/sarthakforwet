@@ -1,39 +1,34 @@
-![MasterHead](https://campusmap.northeastern.edu/images/main-site-header.gif)
 <h1 align="center">Hi 👋, I'm Sarthak Khandelwal</h1>
 
 [<img align="left" alt="Sarthak Khandelwal | Instagram" width="24px" src="https://raw.githubusercontent.com/zgalaz/zgalaz/a9751e1c64c3ed9de6d9afb5c80dd393c2e8365f/icons/contact/Instagram.svg" />][instagram]
 [<img align="left" alt="Sarthak Khandelwal | LinkedIn" width="24px" src="https://raw.githubusercontent.com/zgalaz/zgalaz/a9751e1c64c3ed9de6d9afb5c80dd393c2e8365f/icons/contact/Linkedin.svg" />][linkedin]
 [<img align="left" alt="Sarthak Khandelwal | GoogleScholar" width="24px" src="https://raw.githubusercontent.com/zgalaz/zgalaz/a9751e1c64c3ed9de6d9afb5c80dd393c2e8365f/icons/contact/GoogleScholar.svg" />][google_scholar]
-
+[<img align="left" alt="Sarthak Khandelwal | Kaggle" width="24px" height="24px" src="https://github.com/sarthakforwet/sarthakforwet/blob/main/kaggle-brands-solid.svg" />][kaggle]
 <br />
 
-
-
 <h4 align="justify">
-  Data Scientist | Innovative | Badminton
+  Data Scientist | AI Innovator | Healthcare Enthusiast
   <br><br>
 
-  I'm a Data science Graduate at Northeastern University, Boston. As a professional with a strong background in Machine Learning (ML) and Data Science, I have been actively working in this field since my sophomore year at my undergraduate university. Throughout my studies, I have had the opportunity to build a number of projects and complete three internships in the ML and Data Science domain.
-
+  I'm a Data Scientist with a passion for transforming data into actionable insights to address real-world challenges, particularly in the healthcare sector. My professional journey in Machine Learning (ML) and Data Science began during my sophomore year of undergraduate studies. Since then, I have undertaken numerous projects and internships, honing my skills and contributing to impactful solutions.
 <br>
-My decision to pursue a master's degree was driven by my desire to further develop my skills in ML and Data Science, as well as to learn more about how businesses utilize these technologies. I believe that there is still much that can be achieved through the use of machine learning, and I am excited about the potential for contributions in this field.
-   
-- 🌱 I’m currently doing research on enabling data analysis for BLV (Blind and Low Vision) individuals.
- 
-- 👨‍💻 You can find more details about some of my projects at my [ePortfolio](https://sarthakforwet.github.io/)
+Driven by a commitment to continuous learning, I pursued a master's degree to deepen my understanding of ML and Data Science and explore how these technologies drive business innovation. I am particularly excited about leveraging my expertise to improve healthcare outcomes through data-driven approaches.
+<br>
+- 🌱 Currently researching ways to enable data analysis for BLV (Blind and Low Vision) individuals.
+- 👨‍💻 Strengthening my statistical and inferential knowledge.
+- 📫 Conducted in-depth analysis of large datasets to uncover trends and insights that drove strategic business decisions.
+- 💡Collaborated in a project on the application of Natural Language Processing (NLP) to automate medical record analysis, significantly reducing processing time.
 
-- 📫 You can reach me at **khandelwal.sar@northeastern.edu**
+<br><br>
 
-- Product Quantization is indeed the future of handling big data.
-  
-<br><br>  
 ![Sarthak Khandelwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarthakforwet&hide=[%22stars%22]&show_icons=true)
 
-  <br>
-  
+<br>
+
 ### My programming workbench:
 [<img align="left" alt="Python" width="34px" src="https://seeklogo.com/images/P/python-logo-C50EED1930-seeklogo.com.png" />][python_website]
 [<img align="left" alt="R" width="26px" src="https://img.icons8.com/fluency/512/r-project.png" />][r_website]
+<img align="left" alt="R" width="26px" src="https://cdn-icons-png.flaticon.com/128/7506/7506880.png" />
 
 <br />
 <br />
@@ -47,7 +42,11 @@ My decision to pursue a master's degree was driven by my desire to further devel
 [<img align="left" alt="Keras" height="28px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/keras.svg" />][keras_website]
 [<img align="left" alt="Jupyter" height="32px" src="https://iconape.com/wp-content/files/si/370990/svg/370990.svg" />][jupyter_website]
 
-  
+<br>
+
+## Let's Connect!
+I'm always open to discussing data science, ML, healthcare innovations, or potential collaborations. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sarthak-k) or check out my latest work on [Kaggle](https://www.kaggle.com/forwet).
+
 [python_website]: https://www.python.org
 [r_website]: https://www.r-project.org/
 [sklearn_website]: https://scikit-learn.org/stable
@@ -62,3 +61,4 @@ My decision to pursue a master's degree was driven by my desire to further devel
 [instagram]: https://www.instagram.com/that.sarthak/
 [linkedin]: https://www.linkedin.com/in/sarthak-k/
 [google_scholar]: https://scholar.google.com/citations?user=ctKH5w8AAAAJ&hl=en
+[kaggle]: https://www.kaggle.com/forwet
