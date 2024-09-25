@@ -23,7 +23,9 @@ Driven by a commitment to continuous learning, I pursued a master's degree to de
 
 ![Sarthak Khandelwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarthakforwet&hide=[%22stars%22]&show_icons=true)
 
-<br>
+## Kaggle Badges
+![Kaggle-badges](https://github.com/sarthakforwet/sarthakforwet/blob/main/Kaggle-badges.PNG?raw=true)
+
 
 ### My programming workbench:
 [<img align="left" alt="Python" width="34px" src="https://seeklogo.com/images/P/python-logo-C50EED1930-seeklogo.com.png" />][python_website]
