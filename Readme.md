@@ -7,7 +7,7 @@
 <br />
 
 <h4 align="justify">
-  Data Scientist | AI Innovator | Healthcare Enthusiast
+  Data Scientist | Automation Specialist | LLMs, Cloud Platforms
   <br><br>
 
   I'm a Data Scientist with a passion for transforming data into actionable insights to address real-world challenges, particularly in the healthcare sector. My professional journey in Machine Learning (ML) and Data Science began during my sophomore year of undergraduate studies. Since then, I have undertaken numerous projects and internships, honing my skills and contributing to impactful solutions.
