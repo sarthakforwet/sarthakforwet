@@ -14,10 +14,11 @@
 <br>
 Driven by a commitment to continuous learning, I pursued a master's degree to deepen my understanding of ML and Data Science and explore how these technologies drive business innovation. I am particularly excited about leveraging my expertise to improve healthcare outcomes through data-driven approaches.
 <br>
-- 🌱 Currently researching ways to enable data analysis for BLV (Blind and Low Vision) individuals.
-- 👨‍💻 Strengthening my statistical and inferential knowledge.
-- 📫 Conducted in-depth analysis of large datasets to uncover trends and insights that drove strategic business decisions.
-- 💡Collaborated in a project on the application of Natural Language Processing (NLP) to automate medical record analysis, significantly reducing processing time.
+- 🌱 Currently working on instituting model pipelines on Cloud Platforms.
+- 👨‍💻 Participating in hackathons and competitions.
+- 📫 Experimenting and grooming understanding of Large Language Models and agents.
+
+Explore More [Projects](https://github.com/sarthakforwet?tab=repositories)
 
 <br><br>
 
