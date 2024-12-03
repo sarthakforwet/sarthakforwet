@@ -22,9 +22,6 @@ As a Research Assistant at Northeastern University, I worked on formulating a di
  
 While working at Mayo Clinic, I operationalized an ETL pipeline integrating VertexAI, BigQuery, and Cloud Storage to process lab reports of patients with Lupus Anticoagulant and generate interpretations which is further streamed to a Dash Application through BigQuery enabling easier analysis for Hematopathologists. Furthermore, I acquired further experience with Data Cleaning and Pre-Processing by migrating 5000+ unstructured Word files into a GeoDatabase for Panelboards Circuit Reports.
 <br>
-
-Explore More [Projects](https://github.com/sarthakforwet?tab=repositories)
-
 <br>
 
 ![Sarthak Khandelwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarthakforwet&hide=[%22stars%22]&show_icons=true)
