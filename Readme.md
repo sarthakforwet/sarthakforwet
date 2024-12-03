@@ -8,7 +8,13 @@
 
 <h4 align="justify">
   Data Scientist | Automation Specialist | LLMs, Cloud Platforms
-  <br><br>
+  <br><be>
+
+- 🌱 Currently working on instituting model pipelines on Cloud Platforms.
+- 👨‍💻 Find my projects <a href='https://github.com/sarthakforwet?tab=repositories'>here</a>
+- 📫 Reach me out at khandelwal.sar@northeastern.edu
+- 📄 Refer my <a href="https://drive.google.com/file/d/1_6ItdCz6hEw0cc67DcZeSXzkcUp2zURh/view?usp=sharing">Resume</a> for more information.
+
 
 Previously a Data Engineer at FiftyFive Technologies, I worked on preparing a SQL-based ETL pipeline for business insights and enabled data-driven decision-making. I'm passionate about transforming data into actionable insights to address real-world challenges. I completed my undergraduate degree in Computer Science from Medi-Caps University. My professional journey in Machine Learning (ML) and Data Science began during my sophomore year when I joined a technical club titled Students' Technical and Innovation Club (STIC). Since then, I have undertaken numerous projects and internships, honing my skills and contributing to impactful solutions. Driven by a commitment to continuous learning, I pursued a master's degree to deepen my understanding of ML and Data Science and explore how these technologies drive business innovation. I am particularly excited about leveraging my expertise to improve real-world outcomes through data-driven approaches.
 
@@ -16,9 +22,6 @@ As a Research Assistant at Northeastern University, I worked on formulating a di
  
 While working at Mayo Clinic, I operationalized an ETL pipeline integrating VertexAI, BigQuery, and Cloud Storage to process lab reports of patients with Lupus Anticoagulant and generate interpretations which is further streamed to a Dash Application through BigQuery enabling easier analysis for Hematopathologists. Furthermore, I acquired further experience with Data Cleaning and Pre-Processing by migrating 5000+ unstructured Word files into a GeoDatabase for Panelboards Circuit Reports.
 <br>
-- 🌱 Currently working on instituting model pipelines on Cloud Platforms.
-- 👨‍💻 Participating in hackathons, competitions, events, and seminars.
-- 📫 Experimenting and grooming understanding of LLM-based agents and Trustworthy AI.
 
 Explore More [Projects](https://github.com/sarthakforwet?tab=repositories)
 
