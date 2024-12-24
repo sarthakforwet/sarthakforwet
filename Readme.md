@@ -14,7 +14,7 @@
 - 👨‍💻 Find my projects <a href='https://github.com/sarthakforwet?tab=repositories'>here</a>
 - 📫 Reach me out at khandelwal.sar@northeastern.edu
 - 📄 Refer my <a href="https://drive.google.com/file/d/1_6ItdCz6hEw0cc67DcZeSXzkcUp2zURh/view?usp=sharing">Resume</a> for more information.
-- 💼 <a href="https://sarthakforwet.github.io">Portfolio</a>
+- 💼 I can also be reached out at - <a href="https://sarthakforwet.github.io">Portfolio</a>
 
 ![](https://komarev.com/ghpvc/?username=sarthakforwet)
 
